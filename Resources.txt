@@ -1,0 +1,7 @@
+Link resources :
+
+https://exact.ipipan.waw.pl/pdf/kaeiog/KAEiOG1999.363-371.pdf - Begining to global optymalisation algorithms
+http://www.issi.uz.zgora.pl/pl/didactic/pp/og/ListaNr1.pdf - where ListaNr[n].pdf [n] = 1:3
+http://en.wikipedia.org/wiki/Random_search - wikipedia
+http://staff.iiar.pwr.wroc.pl/ewa.szlachcic/materialy%20dydaktyczne/air_studia_2_stopnia/12w_timo_optymalizacja_globalna.pdf - global optimalization by ewa szlachcic
+http://en.wikipedia.org/wiki/Stochastic_approximation
